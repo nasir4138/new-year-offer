@@ -121,20 +121,21 @@ body{
     margin-left: 126px;
 
 }
-.btn{
+.join-btn{
     width: 103px;
     height: 24px;
     margin-left: 158px;
     margin-top: 48px;
-    background-color: ;
+    opacity: 1;
     border: none;
 
 }
-.btn a{
+.join-btn a{
     color: rgb(255, 255, 255);
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
+    text-decoration: none;
     
 
 }
