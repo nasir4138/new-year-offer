@@ -11,10 +11,12 @@ body{
     width: 1320px;
     min-height: 600px;
     margin-left: 86px;
-   
+   display: flex;
+   justify-content: center;
+   align-items: center;
     margin-top: 20px;
     background-image: url(images/Banner\ Image.png);
-    position: absolute;
+    
     border-radius: 16px;
     background-color: rgba(0, 0, 0, 0.6);
     background-blend-mode: overlay;
@@ -25,7 +27,7 @@ body{
 .banner-content{
     color: aliceblue;
     text-align: center;
-    margin-top: 177px;
+    margin-top: 20px;
     
     
 }
@@ -45,17 +47,17 @@ body{
 /* main secton start here */
 /* 60% start here */
 .sixty-section{
-    
-    position: absolute;
+    margin-top: 120px;
+    margin: 0 auto;
     width: 802.9px;
     height: 806px;
-    left: 390px;
-    right: 398.1px;
-    top: 770px;
-    bottom: 5759px;
+    
+    
+    
     
 }
 .offer-heading{
+    margin-top: 120px;
     text-align: center;
     width: 100%;
     height: 306px;
@@ -80,4 +82,67 @@ body{
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
+}
+.party-details{
+    border: 2px solid red;
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 90px;
+    background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),
+                url('images/Vectorrr.png') no-repeat center center/cover;
+                border-radius: 16px;
+    background-repeat: no-repeat;    
+    background-position: center; 
+    display: flex;
+         
+
+}
+.party-heading{
+    display: flex;
+    flex-direction: column;
+
+}
+.party-heading h4{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    margin-left: 128px;
+
+}
+.party-heading p{
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-left: 126px;
+
+}
+.btn{
+    width: 103px;
+    height: 24px;
+    margin-left: 158px;
+    margin-top: 48px;
+    background-color: ;
+    border: none;
+
+}
+.btn a{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    
+
+}
+
+.party-details .group-70-pic{
+    width: 349.16px;
+    height: 464.65px; 
+     
+    margin-right: 108px;
+    margin-top: 68px;
 }
