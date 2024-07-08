@@ -19,7 +19,7 @@ body{
     background-image: url(images/Banner\ Image.png);
     
     border-radius: 16px;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.4);
     background-blend-mode: overlay;
     background-position: center;
     background-repeat: no-repeat;
