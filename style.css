@@ -10,7 +10,7 @@ body{
 .banner-container{
     width: 1320px;
     min-height: 600px;
-    margin-left: 90px;
+    margin-left: 86px;
    
     margin-top: 20px;
     background-image: url(images/Banner\ Image.png);
@@ -49,7 +49,7 @@ body{
     position: absolute;
     width: 802.9px;
     height: 806px;
-    left: 399px;
+    left: 390px;
     right: 398.1px;
     top: 770px;
     bottom: 5759px;
@@ -66,12 +66,14 @@ body{
     font-family: Inter;
     font-size: 88px;
     font-weight: 700;
+    margin-bottom: 48px;
 }
 .offer-heading p{
     color: rgb(255, 0, 0);
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+    margin-bottom: 16px;
 }
 .offer-heading h3{
     color: rgb(7, 2, 17);
