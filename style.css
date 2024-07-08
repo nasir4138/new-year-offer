@@ -47,22 +47,27 @@ body{
 }
 /* main secton start here */
 /* 60% start here */
+.offer-heading-border{
+    width: 1320px;
+    min-height: 600px;
+    margin: 120px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .sixty-section{
     
-    
-    margin: 120px auto;
     width: 800px;
     height: 805px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
-    
-    
-    
-    
+
 }
+
+
 .offer-heading{
     
     text-align: center;
