@@ -101,6 +101,7 @@ body{
 .party-heading{
     display: flex;
     flex-direction: column;
+    padding-top: 90px;
 
 }
 .party-heading h4{
