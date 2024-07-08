@@ -234,3 +234,59 @@ body{
     font-size: 32px;
     font-weight: 600;
 }
+/* event-section end here  */
+
+/* best offer coming section start here  */
+.best-offer-coming{
+    width: 1320px;
+    height: 463px;
+    
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.offer-heading-box{
+    width: 393px;
+    height: 255px;
+    
+}
+.offer-heading-box h5{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.best-offer-coming .para{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.offer-heading-box h2{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.eclipse-image-box{
+    border: 15px solid red;
+    width: 463px;
+    height: 463px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.year-box{
+    width: 276px;
+    height: 170px;
+    
+}
+.year-box h1{
+    color: rgb(255, 0, 0);
+    
+    font-size: 48px;
+    font-weight: 800;
+}
