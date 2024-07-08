@@ -290,3 +290,47 @@ body{
     font-size: 48px;
     font-weight: 800;
 }
+/* best offer coming section end here  */
+
+/* holidays offer section start here */
+.holidays-offer{
+    width: 1320px;
+    height: 260px;
+   
+    margin: 120px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.holidays-offer-title{
+    width: 1068px;
+    height: 260px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.holidays-offer-title h6{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.holidays-offer-title h1{
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+.holidays{
+    color: red;
+}
+.holidays-offer-title p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    text-align: center;
+}
