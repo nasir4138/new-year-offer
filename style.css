@@ -506,18 +506,18 @@ body{
 footer {
     background-color: #070211;
     margin-top: 50px;
-    width: 1500px;
+    width: 1320px;
     height:609px ;
-    margin: 50px auto 0;
+    margin: 80px auto 0;
 }
 
 .footer {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin: 0 auto;
     padding: 0 ;
-    width: 1320px;
+    width: 1020px;
     height: 500px;
 }
 
@@ -525,6 +525,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 50px;
 }
 
 .footer-top .left,
