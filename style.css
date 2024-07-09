@@ -506,6 +506,8 @@ body{
 footer {
     background-color: #070211;
     margin-top: 50px;
+    width: 1500px;
+    height:609px ;
 }
 
 .footer {
