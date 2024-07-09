@@ -296,7 +296,7 @@ body{
 .holidays-offer{
     width: 1320px;
     height: 986px;
-   
+    border-radius: 8px;
     margin: 120px auto;
     position: relative;
 }
@@ -336,7 +336,7 @@ body{
 .solid-color{
     width: 1320px;
     height: 229px;
-    
+    border-radius: 10px;
     background-color: red;
     position: absolute;
     top: 77%;
@@ -364,3 +364,51 @@ body{
 }
 /* holidays offer section end here */
 
+/* our awesome portfolio section start here */
+
+.portfolio{
+    width: 1320px;
+    height: 1163px;
+    
+    margin: 0 auto;
+    
+    
+}
+.portfolio-text{
+    width: 1320px;
+    height: 200px;
+    
+    
+}
+.portfolio-text h5{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}
+.portfolio-text h1{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+.portfolio-text p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.portfolio-images{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    
+}
+.portfolio-images1{
+    width: 424px;
+    height: 450px;
+}
