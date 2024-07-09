@@ -501,3 +501,37 @@ body{
     
 }
 /* newsletter box section start here  */
+
+/* footer section start here  */
+.footer-container{
+    width: 1600px;
+    height: 609px;
+    
+    margin: 0 auto;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    background: rgb(7, 2, 17);
+}
+
+.address-container{
+    width: 1185px;
+    height: 80px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    margin: 12px 275px 409px 140px;
+    color: whitesmoke;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+.address-container-details{
+    
+}
+.conttact-details{
+    
+}
