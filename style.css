@@ -295,12 +295,10 @@ body{
 /* holidays offer section start here */
 .holidays-offer{
     width: 1320px;
-    height: 260px;
+    height: 986px;
    
     margin: 120px auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    position: relative;
 }
 .holidays-offer-title{
     width: 1068px;
@@ -310,6 +308,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin: 0 auto;
 
 }
 .holidays-offer-title h6{
@@ -334,3 +333,34 @@ body{
     margin-top: 15px;
     text-align: center;
 }
+.solid-color{
+    width: 1320px;
+    height: 229px;
+    
+    background-color: red;
+    position: absolute;
+    top: 77%;
+}
+
+/* 50% discount section start here  */
+.discount-secton{
+    width: 1320px;
+    height: 662px; 
+    
+    margin: 60px auto ;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+}
+.group-75-img{
+    
+    width: 796.46px;
+    height: 662.07px;
+    
+}
+.group-44-img{
+    margin: 0 auto;
+    margin-top: 90px;
+}
+/* holidays offer section end here */
+
