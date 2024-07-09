@@ -506,8 +506,8 @@ body{
 .footer-container{
     width: 1600px;
     height: 609px;
+    margin-top:100px ;
     
-    margin: 0 auto;
     display: flex;
    justify-content: center;
     align-items: center;
